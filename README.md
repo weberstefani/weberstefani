@@ -2,17 +2,18 @@
 ##
 
 :green_heart: From Brazil. <br><br>
-:smile: MBTI personality INFJ-A. <br><br>
+:smile: MBTI personality ENTJ-A. <br><br>
 :seedling: I started my studies in Front-end programming in mid-2023! <br><br>
+:seedling: I started to be interested in project management in 2025 and I am conducting courses in agile methodologies. <br><br>
 :computer: Currently focusing on better understanding each technology. <br><br>
 :earth_asia: Student of languages. At the moment English and Korean. <br><br>
-:mortar_board: I will be completing my Bachelor's degree in Business Administration in April 2025.
+:mortar_board: I will be completing my Bachelor's degree in Business Administration in July 2025.
 ##
 
 ***I like:*** <br>
 :coffee: :fallen_leaf: :partly_sunny: :camera: :headphones: :swimmer: :book: :video_game:
 ##
-:two_hearts: I really enjoy reading research and articles about technology, and I intend to pursue a master's on imersive technologies and AI after my bachelor's degree.
+:two_hearts: I really enjoy reading research and articles about technology, and I intend to pursue a master's on imersive technologies after my bachelor's degree.
 ##
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Imfany)
